@@ -1,0 +1,15 @@
+D:\HW9\Finish\NaturN\bin\Debug\net6.0\NaturN.exe
+D:\HW9\Finish\NaturN\bin\Debug\net6.0\NaturN.deps.json
+D:\HW9\Finish\NaturN\bin\Debug\net6.0\NaturN.runtimeconfig.json
+D:\HW9\Finish\NaturN\bin\Debug\net6.0\NaturN.dll
+D:\HW9\Finish\NaturN\bin\Debug\net6.0\NaturN.pdb
+D:\HW9\Finish\NaturN\obj\Debug\net6.0\NaturN.csproj.AssemblyReference.cache
+D:\HW9\Finish\NaturN\obj\Debug\net6.0\NaturN.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW9\Finish\NaturN\obj\Debug\net6.0\NaturN.AssemblyInfoInputs.cache
+D:\HW9\Finish\NaturN\obj\Debug\net6.0\NaturN.AssemblyInfo.cs
+D:\HW9\Finish\NaturN\obj\Debug\net6.0\NaturN.csproj.CoreCompileInputs.cache
+D:\HW9\Finish\NaturN\obj\Debug\net6.0\NaturN.dll
+D:\HW9\Finish\NaturN\obj\Debug\net6.0\refint\NaturN.dll
+D:\HW9\Finish\NaturN\obj\Debug\net6.0\NaturN.pdb
+D:\HW9\Finish\NaturN\obj\Debug\net6.0\NaturN.genruntimeconfig.cache
+D:\HW9\Finish\NaturN\obj\Debug\net6.0\ref\NaturN.dll

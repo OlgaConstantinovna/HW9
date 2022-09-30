@@ -1,0 +1,15 @@
+D:\HW9\Finish\SummMN\bin\Debug\net6.0\SummMN.exe
+D:\HW9\Finish\SummMN\bin\Debug\net6.0\SummMN.deps.json
+D:\HW9\Finish\SummMN\bin\Debug\net6.0\SummMN.runtimeconfig.json
+D:\HW9\Finish\SummMN\bin\Debug\net6.0\SummMN.dll
+D:\HW9\Finish\SummMN\bin\Debug\net6.0\SummMN.pdb
+D:\HW9\Finish\SummMN\obj\Debug\net6.0\SummMN.csproj.AssemblyReference.cache
+D:\HW9\Finish\SummMN\obj\Debug\net6.0\SummMN.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW9\Finish\SummMN\obj\Debug\net6.0\SummMN.AssemblyInfoInputs.cache
+D:\HW9\Finish\SummMN\obj\Debug\net6.0\SummMN.AssemblyInfo.cs
+D:\HW9\Finish\SummMN\obj\Debug\net6.0\SummMN.csproj.CoreCompileInputs.cache
+D:\HW9\Finish\SummMN\obj\Debug\net6.0\SummMN.dll
+D:\HW9\Finish\SummMN\obj\Debug\net6.0\refint\SummMN.dll
+D:\HW9\Finish\SummMN\obj\Debug\net6.0\SummMN.pdb
+D:\HW9\Finish\SummMN\obj\Debug\net6.0\SummMN.genruntimeconfig.cache
+D:\HW9\Finish\SummMN\obj\Debug\net6.0\ref\SummMN.dll

@@ -1,0 +1,15 @@
+D:\HW9\Finish\AckermannFunction\bin\Debug\net6.0\AckermannFunction.exe
+D:\HW9\Finish\AckermannFunction\bin\Debug\net6.0\AckermannFunction.deps.json
+D:\HW9\Finish\AckermannFunction\bin\Debug\net6.0\AckermannFunction.runtimeconfig.json
+D:\HW9\Finish\AckermannFunction\bin\Debug\net6.0\AckermannFunction.dll
+D:\HW9\Finish\AckermannFunction\bin\Debug\net6.0\AckermannFunction.pdb
+D:\HW9\Finish\AckermannFunction\obj\Debug\net6.0\AckermannFunction.csproj.AssemblyReference.cache
+D:\HW9\Finish\AckermannFunction\obj\Debug\net6.0\AckermannFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW9\Finish\AckermannFunction\obj\Debug\net6.0\AckermannFunction.AssemblyInfoInputs.cache
+D:\HW9\Finish\AckermannFunction\obj\Debug\net6.0\AckermannFunction.AssemblyInfo.cs
+D:\HW9\Finish\AckermannFunction\obj\Debug\net6.0\AckermannFunction.csproj.CoreCompileInputs.cache
+D:\HW9\Finish\AckermannFunction\obj\Debug\net6.0\AckermannFunction.dll
+D:\HW9\Finish\AckermannFunction\obj\Debug\net6.0\refint\AckermannFunction.dll
+D:\HW9\Finish\AckermannFunction\obj\Debug\net6.0\AckermannFunction.pdb
+D:\HW9\Finish\AckermannFunction\obj\Debug\net6.0\AckermannFunction.genruntimeconfig.cache
+D:\HW9\Finish\AckermannFunction\obj\Debug\net6.0\ref\AckermannFunction.dll
